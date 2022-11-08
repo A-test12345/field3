@@ -1,0 +1,92 @@
+body {
+  font-family: arial;
+  font-size: large;
+  color:#000;
+
+  background-image: url("haikei.jpeg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1.title{
+  font-family:serif;
+  color:  #A2F660;
+  background-color: #fff;
+}
+h1.sitei{
+  color:  #fff;
+  background-color: #384D98;
+}
+h2.sitei{
+  color:  #A2F660;
+  background-color: #fff;
+}
+h3.sitei{
+  color:  #fff;
+  background-color: #384D98;
+}
+#container {
+  width:630px;
+  margin:0 auto;
+    border-top:0px solid  #66CDAA;
+}
+#container2 {
+  width:200px;
+  margin:0 auto;
+    border-top:0px solid  #66CDAA;
+}
+#container3 {
+  width:700px;
+  margin:0 auto;
+    border-top:0px solid  #66CDAA;
+}
+#container4 {
+  width:500px;
+  margin:0 auto;
+    border-top:0px solid  #66CDAA;
+}
+#huta {
+  color:  #fff;
+}
+ul {
+        height: auto;
+        margin: 0;
+        padding: 0;
+        line-height: 100%;
+        list-style-type: none;
+}
+ul li {
+             margin: 0;
+             padding: 0;
+             float: left;　
+             width: 200px;
+             text-align: center;
+             font-size: 14px;
+}
+ul li a {
+            border-right: 1px solid #fff;
+            padding: 8px 58.3px;
+            display: block;
+            position: relative;
+            background-color: #384D98;
+            text-decoration: none;
+}
+ul li a:link {
+    color:#fff;
+    text-decoration:none;
+}
+
+ul li a:visited {
+    color:#fff;
+    text-decoration:none;
+}
+
+ul li a:hover {
+    border-color: #fff;
+    color:#333;
+    background-color: #fff;
+    text-decoration: none;
+}
+div {
+   text-align : center ; 
+  }
